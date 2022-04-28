@@ -1,6 +1,6 @@
 body{
     background: url(/imagem/fundo.jpg);
-    font-family:  'monospace','Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:  'monospace', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     max-width: 900px;
     margin: auto;
 }
