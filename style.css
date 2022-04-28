@@ -55,7 +55,9 @@ border-radius: 15px;
     margin: 0px;
     margin-bottom: 15px;
     text-transform: capitalize;
-    text-align: justify;
+    text-align: center;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .post_image{
     margin: 10px ;
@@ -84,3 +86,4 @@ border-radius: 15px;
     padding-left: 15px;
 
 }
+
